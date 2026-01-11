@@ -2,10 +2,10 @@
 
 I'm an M.S. candidate in Computer Science at Stanford, on the AI track.  
 I'm interested in:
-1. Architectural improvement of deep learning;
-2. Application of deep learning in NLP and Robotics;
-3. Cryptography research;
-4. Building in the blockchain space: open-source dev work for Bitcoin, dApps on Ethereum and Solana.
+- Architectural improvement of deep learning;
+- Application of deep learning in NLP and Robotics;
+- Cryptography research;
+- Building in the blockchain space: open-source dev work for Bitcoin, dApps on Ethereum and Solana.
 
 ---
 
