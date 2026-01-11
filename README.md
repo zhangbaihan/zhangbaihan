@@ -9,7 +9,7 @@ I'm interested in:
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 - Languages: Python, C++, JavaScript, HTML, CSS, Solidity
 - Frameworks: MongoDB, Express.js, React, Node.js
 - Tools: Git, Docker, Linux
@@ -17,13 +17,9 @@ I'm interested in:
 
 ---
 
-## 🚀 Featured Projects
-- **[Project Name](link)** – One sentence about what it does and why it’s useful  
-- **[Project Name](link)** – One sentence impact-focused description  
+## Featured Projects
+- **[Stanford Open Data Project](https://github.com/savannahvoth/Team-27-Homepage)** - full-stack web platform that gathers data from the community, for the community. 
+- **[Sparse MoE Architecture Research](https://github.com/zhangbaihan/COMET-Sparse-NN-Tuning)** – diagnoses and improves upon a 2025 ICLR Paper model, "COMET MoE".
+- **[commerce.txt](https://github.com/zhangbaihan/YC-Hackathon-11-15)** – YC Hackathon Top-10 Project: makes webpages LLM-friendly for agentic payment use. 
 
----
-
-## 📊 GitHub Stats
-(Optional but nice)
-```md
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
+You can reach out to me at baihan@stanford.edu
