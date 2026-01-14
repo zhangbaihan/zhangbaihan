@@ -18,7 +18,7 @@ I'm interested in:
 ---
 
 ## Featured Projects
-- **[Stanford Open Data Project](https://github.com/savannahvoth/Team-27-Homepage)** - full-stack web platform that gathers data from the community, for the community. 
+- **[Stanford Open Data Project](https://github.com/StanfordCS194/win26-Team27)** - full-stack web platform that gathers data from the community, for the community. 
 - **[Sparse MoE Architecture Research](https://github.com/zhangbaihan/COMET-Sparse-NN-Tuning)** – diagnoses and improves upon a 2025 ICLR Paper model, "COMET MoE".
 - **[commerce.txt](https://github.com/zhangbaihan/YC-Hackathon-11-15)** – YC Hackathon Top-10 Project: makes e-commerce webpages LLM-friendly for agentic payment use. 
 
